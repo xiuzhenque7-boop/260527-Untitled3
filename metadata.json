@@ -1,0 +1,6 @@
+{
+  "name": "单词默写 App",
+  "description": "支持上传照片智能扫描或手动输入，自动为单词生成音标、中文释义和中英双语例句。内置标准听写默写模式、错词本与错词专项突破复习模式，全方位巩固记忆。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
